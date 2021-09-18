@@ -1,0 +1,16 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aiji42/zenn-content.git",
+  "author": "Aiji Uejima <uejima.aiji@a-tm.co.jp>",
+  "license": "MIT",
+  "scripts": {
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book",
+    "preview": "zenn preview"
+  },
+  "devDependencies": {
+    "zenn-cli": "^0.1.95"
+  }
+}
